@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chrono-node": "^2.5.0",
+    "sugar": "^2.0.6",
+    "wink-eng-lite-web-model": "^1.4.3",
+    "wink-nlp": "^1.13.0"
+  },
+  "type": "module"
+}
